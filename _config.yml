@@ -1,0 +1,14 @@
+name: Youreka Music
+layout_spectrum: 0.9639992118525508
+typography_spectrum: 0.796422709355796
+color:
+  brandColors:
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
+  brandStrength: 0.4222474916222423
+  lightness: 0.7456250953176039
+  saturation: 0.7619209139817784
+  rhythmicContrast: 0.8998970704331409
