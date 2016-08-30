@@ -1,5 +1,3 @@
-name: Youreka Music
-layout_spectrum: 0.9639992118525508
 typography_spectrum: 0.796422709355796
 color:
   brandColors:
@@ -12,3 +10,6 @@ color:
   lightness: 0.7456250953176039
   saturation: 0.7619209139817784
   rhythmicContrast: 0.8998970704331409
+layout_spectrum: 0.9639992118525508
+name: Youreka Music
+title: Youreka Music Creators
