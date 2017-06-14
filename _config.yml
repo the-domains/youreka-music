@@ -1,16 +1,44 @@
-typography_spectrum: 0.796422709355796
+name: "Ёврика Музыка. Воодушевляющая сила звука \uD83C\uDFB6 \uD83D\uDCAA "
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff167d35-4c00-40a7-acb6-9702dd5295e3.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3f0bdab-d15d-4856-9c7f-a98e9d404307.jpg
+layout_spectrum: 0.34325057013559684
+typography_spectrum: 0.20132938603972003
+analytics:
+  facebook: '1040561646063240'
+  google: UA-85051577-1
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
-    - '#962D3E'
-    - '#343642'
-    - '#979C9C'
-    - '#F2EBC7'
-    - '#348899'
-  brandStrength: 0.4222474916222423
-  lightness: 0.7456250953176039
-  saturation: 0.7619209139817784
-  rhythmicContrast: 0.8998970704331409
-layout_spectrum: 0.9639992118525508
-name: Youreka Music
-title: Youreka Music Creators
-description: by Piotr Talalay
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.8040018069235111
+  lightness: 0.4885073856701429
+  saturation: 0.1865547802835924
+  rhythmicContrast: 0.2233101006457121
+title: Ёврика Musica
+description: 'Лига хитроумных музыкантов. Сдобрено Талалаем. '
+author:
+  name: Piotr Talalay
+  url: 'http://priot.ru'
+  email: talalife@gmail.com
+content_rating:
+  adult: false
+navigation:
+  - name: Ещё артисты
+    id: b1c348ea-5a6f-453a-8529-d0759650ee2f
+    type: content
+  - name: 'Концерты, календарь Google'
+    id: 76e560cf-b135-4ec0-a831-145cc4d64165
+    type: content
+  - name: Angel Ontalva VS Priot Duo
+    id: 424a3141-ecac-4951-9cc4-7a174932950c
+    type: content
+content: []
+github: true
