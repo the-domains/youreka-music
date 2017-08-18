@@ -1,9 +1,11 @@
 ---
 title: Готовимся к Солнечному затмению на Солнечной сцене
-dateModified: '2017-08-18T22:47:24.793Z'
+datePublished: '2017-08-18T22:55:08.625Z'
+dateModified: '2017-08-18T22:55:06.366Z'
 publisher: {}
 author: []
 inFeed: true
+hasPage: true
 description: >-
   Прекрасная маленькая ловкая и очень упорная импровизирующая пианистка из
   Москвы Наташа Скворцова продолжает нести на своих хрупких плечах факел под
@@ -18,10 +20,10 @@ description: >-
   мы играли отличный по всем параметрам джазовый гиг, под названием Трио Юрия
   Голубева, в московском Джем-клубе.
 via: {}
-datePublished: '2017-08-18T22:50:52.225Z'
 starred: false
 datePublishedOriginal: '2017-08-18T22:50:52.225Z'
 sourcePath: _posts/2017-08-18-gotovimsya-k-solnechnomu-zatmeniyu-na-solnechnoj-scene.md
+url: gotovimsya-k-solnechnomu-zatmeniyu-na-solnechnoj-scene/index.html
 _type: Article
 _context: 'http://schema.org'
 
