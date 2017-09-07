@@ -1,6 +1,7 @@
 ---
-title: talalife technical rider
-dateModified: '2017-09-07T20:43:11.998Z'
+title: Технический райдер Петра Талалая.
+datePublished: '2017-09-07T20:44:26.210Z'
+dateModified: '2017-09-07T20:44:24.528Z'
 publisher: {}
 author: []
 inFeed: false
@@ -11,7 +12,6 @@ description: >-
   техническом состоянии, без каких -либо заглушающих материалов на пластиках или
   с возможностью быстро их снять. Пластики - желательно с напылением.
 via: {}
-datePublished: '2017-09-07T20:43:15.572Z'
 starred: false
 datePublishedOriginal: '2017-09-07T20:43:15.572Z'
 sourcePath: _posts/2017-09-07-talalife-technical-rider.md
@@ -20,7 +20,7 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-# talalife technical rider
+# Технический райдер Петра Талалая.
 
 Ударная установка DW, Sonor, Premier, Tama, Pearl, Yamaha, Mapex, с установленным комплектом пластиков Aquarian, Evans, Remo, в хорошем техническом состоянии, без каких -либо заглушающих материалов на пластиках или с возможностью быстро их снять. Пластики - желательно с напылением.
 
