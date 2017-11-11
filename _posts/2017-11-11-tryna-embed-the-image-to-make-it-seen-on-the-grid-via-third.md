@@ -1,7 +1,7 @@
 ---
 title: ''
-datePublished: '2017-11-11T16:57:58.966Z'
-dateModified: '2017-11-11T16:57:57.298Z'
+datePublished: '2017-11-11T17:00:19.357Z'
+dateModified: '2017-11-11T17:00:15.263Z'
 publisher: {}
 author: []
 inFeed: true
@@ -32,4 +32,6 @@ And here I trying to insert a code with maybe direct link to photo at yandex dis
 
 And here is direct link to image at Yandex Disk (no html wrapping)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5f4adb997dcb35f261ee829e740345a3c66aa11.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0ffece24a6d5e1321f8bb152636bb1ce/croprotate?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fs155f.storage.yandex.net%2Frdisk%2Fd0c0f9df1f82c2fa2a5f743449eac43d260b230c96c53d4737bd2029b7af57b1%2F5a072dbc%2F_3kcBm8rB5NSmXxMaHzmAPRIw9Q3VRPccZebVk0yZ3uhxKEhgSWWsx3-gO00GprKkogMFfLNN5IVspyYZFCD7g%3D%3D%3Fuid%3D42596427%26filename%3D20170902_115053.jpg%26disposition%3Dinline%26hash%3D%26limit%3D0%26content_type%3Dimage%252Fjpeg%26fsize%3D7847434%26hid%3D6afc51d1203dc0229f314763be2e6c81%26media_type%3Dimage%26tknv%3Dv2%26etag%3D0515b0378850b2302cfdfbdf5bae266f%26rtoken%3DJPoE1WR5Yerr%26force_default%3Dyes%26ycrid%3Dna-7f551951d2c95725b52f47f0e5d9252d-downloader4h%26ts%3D55db80999e700%26s%3D14e67eed67688ef831d8f307d8076aaa4c04efdbb314977c40f06b759a9c1ea6%26pb%3DU2FsdGVkX18wvIpccXshysgFzt8PnnXKNIIl-ITgNQpQQKw2v3Xq8LWilU_1QK4qKywngghxrFHDVjgya4w9gmVxF64abC5-kLVHPXLNv0c%3D&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5f4adb997dcb35f261ee829e740345a3c66aa11.jpg)
+
+Yes. That's not all!
