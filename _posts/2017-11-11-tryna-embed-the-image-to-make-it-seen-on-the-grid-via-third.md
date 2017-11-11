@@ -1,7 +1,7 @@
 ---
 title: ''
-datePublished: '2017-11-11T15:42:47.310Z'
-dateModified: '2017-11-11T15:42:41.028Z'
+datePublished: '2017-11-11T15:51:03.301Z'
+dateModified: '2017-11-11T15:51:01.296Z'
 publisher: {}
 author: []
 inFeed: true
@@ -24,6 +24,6 @@ Tryna embed the image to make it seen on the grid via third party service
 And this one was uploaded directly to the grid
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32ff6558-487b-476e-99f2-d7ed3482ecd9.jpg)
 
-And here I trying to insert a code with maybe direct link to photo at yandex disk XD 
+And here I trying to insert a code with maybe direct link to photo at yandex disk XD
 
-<a href="https://yadi.sk/i/ifz0VLx23Pc8KS"\><img src="https://s155f.storage.yandex.net/rdisk/d0c0f9df1f82c2fa2a5f743449eac43d260b230c96c53d4737bd2029b7af57b1/5a072dbc/\_3kcBm8rB5NSmXxMaHzmAPRIw9Q3VRPccZebVk0yZ3uhxKEhgSWWsx3-gO00GprKkogMFfLNN5IVspyYZFCD7g==?uid=42596427&filename=20170902\_115053.jpg&disposition=inline&hash=&limit=0&content\_type=image%2Fjpeg&fsize=7847434&hid=6afc51d1203dc0229f314763be2e6c81&media\_type=image&tknv=v2&etag=0515b0378850b2302cfdfbdf5bae266f&rtoken=JPoE1WR5Yerr&force\_default=yes&ycrid=na-7f551951d2c95725b52f47f0e5d9252d-downloader4h&ts=55db80999e700&s=14e67eed67688ef831d8f307d8076aaa4c04efdbb314977c40f06b759a9c1ea6&pb=U2FsdGVkX18wvIpccXshysgFzt8PnnXKNIIl-ITgNQpQQKw2v3Xq8LWilU\_1QK4qKywngghxrFHDVjgya4w9gmVxF64abC5-kLVHPXLNv0c=" alt="2017\_Nov\_11\_13\_37\_56" border="0"\></a\><br /\>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkklz2kAUhP8KRVV0A82q0aQ8TsULMQETsGMZ-6KaVRqDFksyIH595FyS-6t-_XX3hRzljXVinHdd3X4Nw14aP213oQ-9O4NkeUJ4rePF4_jywhfZqG30v9sWUuqmbVc1MrPTXpbGnqal7cLG-EHCAA0cNw66GGnkJJLUMYIJ4VZqgg2KgEIYaB5pig1hmCmDAOKKSUeZgiGVgCGjdJjinb4q4uaKrh6L7ele3p2L7-uH-ZFvcPKw1vrVqmQH-lf8kZ8Wt3n2-PzcnvAk-wXAj7pZ7KrsfuaWqxWdJ23dv7zOrm9YJsS3D28EQZRHBLHA-b0tZWEFApABDlAKIQUUT9_qLBiI6qr1na9K4cu9L22QyzYXwd4XvhMg0FXZ2bJLu762whdDIl_Q7K22WeBaf7aCxeQTPsiHl5F0mkIDEcBGA4S4w5CwCCuLbKRjGBTWePmfVNDtyoM4oMB2MhOAQqoAZnFM_yaItDNOGUeVtCiKXNB01c6W4ue6uoXPD_TFNk3gqkbb1FgnP_ad6G0b9LoZvJRywhylkA-GkOaUIaoocoQ5YKnhiCIzMdWx3FfS2IbkQdcKSo2KAefcMgCCVkBiI2atiVgUx9bFGJrYYcBMDFgkpSQaEOuMUgMmZ0wT4ECkGOWSa2hlFNRKPKFZa34kuy2Mj4d5rfW2zfs2m527eF2W28VqPt9P5r-z1abebBZHdMDb93j57PdPKdwsyPuiP5ZZlp-a2d1N8pb1khx5ViSnWUSkuqaT3TK5W2-XqwMYFjySQwbjz57TVXUYek4hTjFLaTQeqaoZQMUYDJMP5eWFakbh5R9DYv7y" height="244" style=""></iframe>
