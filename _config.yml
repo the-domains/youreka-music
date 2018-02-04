@@ -1,54 +1,63 @@
 name: Ёврика Musica
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff167d35-4c00-40a7-acb6-9702dd5295e3.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3f0bdab-d15d-4856-9c7f-a98e9d404307.jpg
+layout_spectrum: 0.3432505701355968
+typography_spectrum: 0.20132938603972
 analytics:
   facebook: '1040561646063240'
   google: UA-85051577-1
-github: true
-description: Животворное музыкальное искусство для жителей большого города .
-author:
-  name: Piotr Talalay
-  url: 'http://priot.ru'
-  email: talalife@gmail.com
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-content: []
-navigation:
-  - id: b1c348ea-5a6f-453a-8529-d0759650ee2f
-    name: Ещё артисты
-    type: content
-  - id: 76e560cf-b135-4ec0-a831-145cc4d64165
-    name: 'Концерты, календарь Google'
-    type: content
-  - id: 424a3141-ecac-4951-9cc4-7a174932950c
-    name: Angel Ontalva VS Priot Duo
-    type: content
-layout_spectrum: 0.3432505701355968
+opengraph: {}
 color:
-  lightness: 0.4885073856701429
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-  saturation: 0.1865547802835924
   brandStrength: 0.8040018069235111
+  lightness: 0.4885073856701429
+  saturation: 0.1865547802835924
   rhythmicContrast: 0.2233101006457121
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff167d35-4c00-40a7-acb6-9702dd5295e3.jpg
+title: "Ёврика Musica. Воодушевляющая сила звука \uD83C\uDFB6 \uD83D\uDCAA "
+description: Животворное музыкальное искусство для жителей большого города .
+author:
+  name: Piotr Talalay
+  url: 'http://priot.ru'
+  email: talalife@gmail.com
 content_rating:
   adult: false
-typography_spectrum: 0.20132938603972
-opengraph: {}
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3f0bdab-d15d-4856-9c7f-a98e9d404307.jpg
-title: "Ёврика Musica. Воодушевляющая сила звука \uD83C\uDFB6 \uD83D\uDCAA "
+navigation:
+  - name: 'Воодушевляющее прослушивание: обзоры альбомов'
+    url: 'http://upliftinglistening.youreka.ru'
+    type: external
+  - name: Прогноз публичных действий Талалая
+    id: 76e560cf-b135-4ec0-a831-145cc4d64165
+    type: content
+  - name: Angel Ontalva VS Priot Duo
+    id: 424a3141-ecac-4951-9cc4-7a174932950c
+    type: content
+  - name: Tinto Brass Band
+    url: 'http://tintobrassband.ru'
+    type: external
+  - name: Пётр Талалай
+    id: c6a0dbeb-2d25-40a2-8328-a1f87289552a
+    type: content
+  - name: Open Trio и Open Quartet Анатолия Осипова
+    id: 65a7cf23-9f10-4df3-a740-4aca23ed235e
+    type: content
+  - name: Q Music Band
+    id: 46cfb2c1-a01d-4c83-8113-c0c4ed937b32
+    type: content
+  - name: Живые люди Натальи Скворцовой
+    id: 5ca0751c-54c9-46bd-9342-d417ab3294bd
+    type: content
+  - name: Антон Петрищевский и The Jazz Prisoners
+    id: 763b1ff9-3afc-4636-a193-8d37162dc96a
+    type: content
+  - name: Райдер Талалая
+    id: fd23009f-2323-4d89-8775-b9d3bbfb46f0
+    type: content
+content: []
+github: true
