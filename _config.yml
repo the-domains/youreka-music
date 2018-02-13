@@ -29,38 +29,41 @@ author:
 content_rating:
   adult: false
 navigation:
-  - name: 'Воодушевляющее прослушивание: обзоры альбомов'
-    url: 'http://upliftinglistening.youreka.ru'
-    type: external
   - name: Прогноз публичных действий Талалая
     id: 76e560cf-b135-4ec0-a831-145cc4d64165
     type: content
   - name: Angel Ontalva VS Priot Duo
     id: 424a3141-ecac-4951-9cc4-7a174932950c
     type: content
-  - name: Tinto Brass Band
-    url: 'http://tintobrassband.ru'
-    type: external
-  - name: 'Пётр Талалай, биография'
-    id: c6a0dbeb-2d25-40a2-8328-a1f87289552a
-    type: content
   - name: 'Open Trio, Open Quartet Анатолия Осипова'
     id: 65a7cf23-9f10-4df3-a740-4aca23ed235e
     type: content
-  - name: Q Music Band
-    id: 46cfb2c1-a01d-4c83-8113-c0c4ed937b32
+  - name: Seven Eight Band
+    id: 86da30e0-0fda-4392-af20-db9cc41552b0
     type: content
-  - name: Живые люди Натальи Скворцовой
+  - name: Tinto Brass Band
+    url: 'http://tintobrassband.ru'
+    type: external
+  - name: Live People Ensemble | Живые люди Натальи Скворцовой
     id: 5ca0751c-54c9-46bd-9342-d417ab3294bd
     type: content
   - name: Антон Петрищевский и The Jazz Prisoners
     id: 763b1ff9-3afc-4636-a193-8d37162dc96a
     type: content
-  - name: Райдер Талалая
-    id: fd23009f-2323-4d89-8775-b9d3bbfb46f0
+  - name: Q Music Band
+    id: 46cfb2c1-a01d-4c83-8113-c0c4ed937b32
+    type: content
+  - name: 'Воодушевляющее прослушивание: обзоры альбомов'
+    url: 'http://upliftinglistening.youreka.ru'
+    type: external
+  - name: 'Пётр Талалай, биография'
+    id: c6a0dbeb-2d25-40a2-8328-a1f87289552a
     type: content
   - name: 'Пётр Талалай, Curriculum Vitae'
     id: c6a0dbeb-2d25-40a2-8328-a1f87289552a
+    type: content
+  - name: Райдер Петра Талалая
+    id: fd23009f-2323-4d89-8775-b9d3bbfb46f0
     type: content
 content: []
 github: true
