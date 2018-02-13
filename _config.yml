@@ -41,10 +41,10 @@ navigation:
   - name: Tinto Brass Band
     url: 'http://tintobrassband.ru'
     type: external
-  - name: Пётр Талалай
+  - name: 'Пётр Талалай, биография'
     id: c6a0dbeb-2d25-40a2-8328-a1f87289552a
     type: content
-  - name: Open Trio и Open Quartet Анатолия Осипова
+  - name: 'Open Trio, Open Quartet Анатолия Осипова'
     id: 65a7cf23-9f10-4df3-a740-4aca23ed235e
     type: content
   - name: Q Music Band
@@ -58,6 +58,9 @@ navigation:
     type: content
   - name: Райдер Талалая
     id: fd23009f-2323-4d89-8775-b9d3bbfb46f0
+    type: content
+  - name: 'Пётр Талалай, Curriculum Vitae'
+    id: c6a0dbeb-2d25-40a2-8328-a1f87289552a
     type: content
 content: []
 github: true
