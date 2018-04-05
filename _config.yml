@@ -8,7 +8,9 @@ typography_spectrum: 0.20132938603972
 analytics:
   facebook: '1040561646063240'
   google: UA-85051577-1
-opengraph: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#2C3E50'
@@ -20,8 +22,8 @@ color:
   lightness: 0.4885073856701429
   saturation: 0.1865547802835924
   rhythmicContrast: 0.2233101006457121
-title: "Ёврика Musica. Воодушевляющая сила звука \uD83C\uDFB6 \uD83D\uDCAA "
-description: Животворное музыкальное искусство для жителей большого города .
+title: "Ёврика Musica. Сайт Петра Талалая \uD83C\uDFB6 \uD83D\uDCAA "
+description: Живое музыкальное искусство - жителям большого города!
 author:
   name: Piotr Talalay
   url: 'http://priot.ru'
